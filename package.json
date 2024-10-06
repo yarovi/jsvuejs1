@@ -16,23 +16,23 @@
   },
   "dependencies": {
     "@nuxtjs/auth": "^4.5.3",
-    "@nuxtjs/axios": "^5.0.0",
-    "body-parser": "^1.18.3",
+    "@nuxtjs/axios": "^5.13.6",
+    "body-parser": "^1.20.3",
     "cookie-parser": "^1.4.3",
     "cross-env": "^5.2.0",
-    "express": "^4.16.4",
-    "express-jwt": "^5.3.1",
-    "jsonwebtoken": "^8.4.0",
-    "nuxt": "^2.0.0"
+    "express": "^4.21.0",
+    "express-jwt": "^8.4.1",
+    "jsonwebtoken": "^9.0.2",
+    "nuxt": "^3.12.4"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.1",
+    "babel-eslint": "^10.1.0",
     "eslint": "^5.0.1",
     "eslint-config-prettier": "^3.1.0",
     "eslint-loader": "^2.0.0",
     "eslint-plugin-prettier": "2.6.2",
     "eslint-plugin-vue": "^4.0.0",
-    "nodemon": "^1.18.9",
+    "nodemon": "^3.1.7",
     "prettier": "1.14.3",
     "push-dir": "^0.4.1"
   }
